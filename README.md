@@ -9,6 +9,7 @@ This was a project that i did for university. I wrote all the code in the images
 ![website1](https://user-images.githubusercontent.com/93518653/200015148-48b244ca-c0d8-4a10-98db-cd3fd5ed8c6b.png)
 
 <h3>Index Page</h3>
+
 ![website8](https://user-images.githubusercontent.com/93518653/200014939-ea2c520a-472a-4b37-b5b4-545c9f19a748.png)
 
 <h3>Create Page</h3>
