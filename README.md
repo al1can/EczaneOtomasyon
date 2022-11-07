@@ -2,7 +2,7 @@
 
 <div>
 <p>
-This was a project that i did for university. I wrote all the code in the images. I lost the codes when i formatted my laptop but could get the images from discord.
+This was a project that i did for university. I lost the codes when i formatted my laptop but could get the images from discord.
 </p>
 </div>
 
